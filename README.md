@@ -32,7 +32,7 @@ To reproduce the results run:
 
 
 <p align="center">
-  <img width="160" height="160" src="dense_samples.png">
+  <img width="160" height="160" src="dcgan_samples.png">
   <img width="160" height="160" src="dense_samples.png">
 </p>
 
